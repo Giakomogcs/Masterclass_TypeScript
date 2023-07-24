@@ -332,11 +332,6 @@ etag@~1.8.1:
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
   integrity sha512-aIL5Fx7mawVa300al2BnEE4iNvo1qETxLrPI/o05L7z6go7fCw1J6EQmbK4FmJ2AS7kgVF/KEZWufBfdClMcPg==
 
-expess@^0.0.1-security:
-  version "0.0.1-security"
-  resolved "https://registry.npmjs.org/expess/-/expess-0.0.1-security.tgz"
-  integrity sha512-UgnpgjCF7WMTdWyLWzivOSkeQ4utbiv25q0cof6UIcI3K83fHcrjlvvRuK60BAxhP/i3BpVvfQffiOWr7M1zHQ==
-
 express@^4.18.2:
   version "4.18.2"
   resolved "https://registry.yarnpkg.com/express/-/express-4.18.2.tgz#3fabe08296e930c796c19e3c516979386ba9fd59"
